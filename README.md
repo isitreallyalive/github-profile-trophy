@@ -473,7 +473,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_latte
 ### catppuccin_frappe
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_latte
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_frappe
 ```
 
 <p align="center">
@@ -483,7 +483,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_latte
 ### catppuccin_macchiato
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_latte
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_macchiato
 ```
 
 <p align="center">
@@ -493,7 +493,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_latte
 ### catppuccin_mocha
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_latte
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=catppuccin_mocha
 ```
 
 <p align="center">
